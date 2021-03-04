@@ -1,2 +1,0 @@
-# RyPA
-PLANNERS
